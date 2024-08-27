@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Mike's github stats](https://github-readme-stats.vercel.app/api?username=miketheman&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miketheman&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=miketheman&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 
 <!--
